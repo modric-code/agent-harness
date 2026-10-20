@@ -1,0 +1,6 @@
+# Python 运行缓存
+__pycache__/
+*.py[cod]
+
+# 本地密钥
+.env
